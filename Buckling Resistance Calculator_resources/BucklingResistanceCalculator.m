@@ -1,0 +1,3 @@
+function BucklingResistanceCalculator()
+    Script;
+end
